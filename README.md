@@ -27,6 +27,7 @@ Linear Regression
 <br>
 The FASTag fraud detection code is designed to analyze and identify potential fraudulent activities within the FASTag toll collection system.
 <br>
+
 # Technologies used:
 <br>
 Python
