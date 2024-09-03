@@ -1,8 +1,8 @@
-#Salary-Prediction-Analysis
+# Salary-Prediction-Analysis
 <br>
 The goal is to predict the salaries of data professionals based on a rich dataset.
 
-#Technologies used:
+# Technologies used:
 <br>
 Pandas
 <br>
@@ -18,6 +18,6 @@ Joblib
 <br>
 Flask
 
-#Models Implemented:
+# Models Implemented:
 <br>
 Linear Regression
