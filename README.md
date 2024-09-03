@@ -1,7 +1,9 @@
 #Salary-Prediction-Analysis
+<br>
 The goal is to predict the salaries of data professionals based on a rich dataset.
 
 #Technologies used:
+<br>
 Pandas
 <br>
 Matplotlib
@@ -17,4 +19,5 @@ Joblib
 Flask
 
 #Models Implemented:
+<br>
 Linear Regression
