@@ -1,9 +1,7 @@
-# MENTORNESS
-<br>
-Salary-Prediction-Analysis
+#Salary-Prediction-Analysis
 The goal is to predict the salaries of data professionals based on a rich dataset.
 
-Technologies used:
+#Technologies used:
 Pandas
 <br>
 Matplotlib
@@ -18,5 +16,5 @@ Joblib
 <br>
 Flask
 
-Models Implemented:
+#Models Implemented:
 Linear Regression
