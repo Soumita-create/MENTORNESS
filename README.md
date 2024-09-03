@@ -17,13 +17,15 @@ Scikit-learn
 Joblib
 <br>
 Flask
-
+<br>
 # Models Implemented:
 <br>
 Linear Regression
 <br>
+
 # Fastag Fraud Detection
 <br>
+
 # Technologies used:
 <br>
 Python
@@ -36,6 +38,7 @@ Seaborn
 <br>
 Scikit-learn
 <br>
+
 # Models Implemented:
 <br>
 Logistic Regression
